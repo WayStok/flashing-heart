@@ -1,0 +1,37 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="music_string_playable" id="{#{HO=YyxxEh559tMlN5" disabled-reasons="pxt_automatic_disabled" x="118" y="-131"><value name="melody"><shadow type="melody_editor" id="Iv_!vf:6ZV,T~j]tu?i," disabled-reasons="pxt_automatic_disabled"><field name="melody">"- - - - - - - - "</field></shadow><block type="melody_editor" id="%.3~C|RwDq=}gc(o@xVb" disabled-reasons="pxt_automatic_disabled"><field name="melody">"- - - - - - - - "</field></block></value><value name="bpm"><shadow type="math_number_minmax" id="L-{u:a?Zr]@j$Ps/W_~D" disabled-reasons="pxt_automatic_disabled"><mutation min="40" max="500" label="Bpm" precision="0"></mutation><field name="SLIDER">120</field></shadow></value></block><block type="music_string_playable" id="xf|Qe:h%$OLxs?5eD1%2" disabled-reasons="pxt_automatic_disabled" x="120" y="-79"><value name="melody"><shadow type="melody_editor" id="BNpB@p$|c6o[;4x;.!aa" disabled-reasons="pxt_automatic_disabled"><field name="melody">"- - - - - - - - "</field></shadow></value><value name="bpm"><shadow type="math_number_minmax" id="=;C=^7eV09ynRCDA]8O?" disabled-reasons="pxt_automatic_disabled"><mutation min="40" max="500" label="Bpm" precision="0"></mutation><field name="SLIDER">120</field></shadow></value></block><block type="device_forever" id="Ua+W4{NcVZj[+2a_OJfR" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="!W!ow4g6AYyW;;Se|eph"><field name="LEDS">`
+        # # . # # 
+        # # # # # 
+        # # # # # 
+        . # # # . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="]_}xWrZ;.PTkyPLh[P7%"><field name="LEDS">`
+        # . . . . 
+        # . . . . 
+        # . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="pYZK!l^hRFkA:Fn%N5pw"><field name="LEDS">`
+        # # . . . 
+        # # . . . 
+        # # . . . 
+        . # . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="78o=!y}$PLn:,VkK1UyA"><field name="LEDS">`
+        # # . . . 
+        # # # . . 
+        # # # . . 
+        . # # . . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="~N`t+bm3zg9Eb]Vnv[rh"><field name="LEDS">`
+        # # . # . 
+        # # # # . 
+        # # # # . 
+        . # # # . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="~[~~;?$WBlv-4v?R2*mw"><field name="LEDS">`
+        # # . # . 
+        # # # # . 
+        # # # # . 
+        . # # # . 
+        . . # . .
+        `</field></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="melody_editor" id="y78/UAX}+6mv%u;!BC?q" disabled-reasons="pxt_automatic_disabled" x="333" y="-12"><field name="melody">"- - - - - - - - "</field></block><block type="music_playable_play" id="ypk3.AATa=P[0}ij`2r#" disabled-reasons="pxt_automatic_disabled" x="75" y="10"><field name="playbackMode">music.PlaybackMode.LoopingInBackground</field><value name="toPlay"><shadow type="music_string_playable" id="qCuKh@Zc*W*.%94wNzr;" disabled-reasons="pxt_automatic_disabled"><value name="melody"><shadow type="melody_editor" id="RAtKPe[Y5#}aJ;uW3P{J" disabled-reasons="pxt_automatic_disabled"><field name="melody">"- - - - - - - - "</field></shadow></value><value name="bpm"><shadow type="math_number_minmax" id="l{yr9+5FPSX+/XODB3As" disabled-reasons="pxt_automatic_disabled"><mutation min="40" max="500" label="Bpm" precision="0"></mutation><field name="SLIDER">120</field></shadow></value></shadow></value></block><block type="music_string_playable" id="Y~Ve{dF|gQVJb,DRYVu#" disabled-reasons="pxt_automatic_disabled" x="183" y="70"><value name="melody"><shadow type="melody_editor" id="BZrHTHlN@K.xzEQfAle?" disabled-reasons="pxt_automatic_disabled"><field name="melody">"- - - - - - - - "</field></shadow><block type="melody_editor" id="4t2Uh{LrKAG%)k0:?[d1" disabled-reasons="pxt_automatic_disabled"><field name="melody">"A C5 F F A C5 E E "</field></block></value><value name="bpm"><shadow type="math_number_minmax" id="^$qRy}49.ld=Kl(+w_Bm" disabled-reasons="pxt_automatic_disabled"><mutation min="40" max="500" label="Bpm" precision="0"></mutation><field name="SLIDER">120</field></shadow></value></block><block type="music_string_playable" id="xQ]4l*Zl3Q~}aFjT+/bQ" disabled-reasons="pxt_automatic_disabled" x="184" y="70"><value name="melody"><shadow type="melody_editor" id="AyY!bf71?%DW4j!r]Kac" disabled-reasons="pxt_automatic_disabled"><field name="melody">"- - - - - - - - "</field></shadow></value><value name="bpm"><shadow type="math_number_minmax" id="KWK7tz6+m=@Ud1cJUz$-" disabled-reasons="pxt_automatic_disabled"><mutation min="40" max="500" label="Bpm" precision="0"></mutation><field name="SLIDER">120</field></shadow></value></block><block type="melody_editor" id="!y%yQI)?[KNSfu%w`]=Z" disabled-reasons="pxt_automatic_disabled" x="317" y="125"><field name="melody">"- - - - - - - - "</field></block></xml>
